@@ -1,15 +1,15 @@
-# halo-ce-123
-## Halo Campaign Evolved - Halo 1, 2, 3
-**OpenCE** (Open Community Edition) is an open source port of the Halo: Combat Evolved decompilation (Halo CE) based on an early Xbox development build (2342) and forked from
-[bnunu/halo-1](https://github.com/bnunu/halo-1). The project aims to enhance the existing game and adds many features, such as 128-player multiplayer, online campaign co-op, mod packs, field-of-view settings, a server browser, peer-to-peer hosting, automatic map downloads, voice chat, support for Custom Edition maps and much more! 
-
-## Github Codespace
+# halo-ce-duke-nukem-3d
+## Halo Combat Evolved - Duke Nukem 3D Remake
+halo-ce-duke-nukem-3d is a project to remake Duke Nukem 3D using the engine and tooling of OpenCE (Open Community Edition) — an open source port of the Halo: Combat Evolved decompilation, based on an early Xbox development build (2342) and forked from bnunu/halo-1.
 
 ## GitHub Treeview
-[https://treegit.macosxjs.com/?url=igiteam/halo-ce-123](https://treegit.macosxjs.com/?url=igiteam/halo-ce-123)
+[https://treegit.macosxjs.com/?url=igiteam/halo-ce-duke-nukem-3d](https://treegit.macosxjs.com/?url=igiteam/halo-ce-duke-nukem-3d)
 
 ## GitHub Tree API (Direct JSON)
-[https://api.github.com/repos/igiteam/halo-ce-123/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/halo-ce-123/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/halo-ce-duke-nukem-3d/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/halo-ce-duke-nukem-3d/git/trees/main?recursive=1)
+
+## Base Gameplay
+[![Duke Nukem 3D - Mission 1 Gameplay](https://img.youtube.com/vi/nP34zCaRHHE/maxresdefault.jpg)](https://www.youtube.com/watch?v=nP34zCaRHHE)
 
 
 ### OpenCE running on Windows (release build)
