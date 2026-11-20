@@ -15,6 +15,8 @@ halo-ce-duke-nukem-3d is a project to remake Duke Nukem 3D using the engine and 
 ### OpenCE running on Windows (release build)
 [![OpenCE running on Windows (release build)](https://github.com/user-attachments/assets/0a4412e1-f6d3-48ed-8e17-0a374c2122f1)](https://youtu.be/KPQzqxQRCzM)
 
+[![Duke Nukem 3D - Stalker.mid (Hollywood Holocaust)](https://img.youtube.com/vi/zsBN79ormUY/maxresdefault.jpg)](https://ytembed.macosxjs.com/?enNCTjc5b3JtVVk)
+
 ### 4K Stencil Shadow Test In Halo CE (OpenCE)
 [![4K Stencil Shadow Test In Halo CE (OpenCE)](https://img.youtube.com/vi/gyH-yXdra_0/maxresdefault.jpg)](https://youtu.be/gyH-yXdra_0)
 
