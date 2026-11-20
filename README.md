@@ -18,19 +18,19 @@ halo-ce-duke-nukem-3d is a project to remake Duke Nukem 3D using the engine and 
 [![Duke Nukem 3D - Stalker.mid (Hollywood Holocaust)](https://img.youtube.com/vi/zsBN79ormUY/hqdefault.jpg)](https://ytembed.macosxjs.com/?enNCTjc5b3JtVVk)
 
 ### 4K Stencil Shadow Test In Halo CE (OpenCE)
-[![4K Stencil Shadow Test In Halo CE (OpenCE)](https://img.youtube.com/vi/gyH-yXdra_0/maxresdefault.jpg)](https://youtu.be/gyH-yXdra_0)
+[![4K Stencil Shadow Test In Halo CE (OpenCE)](https://img.youtube.com/vi/gyH-yXdra_0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Z3lILXlYZHJhXzA)
 
-[![halo-ce-editor](https://img.youtube.com/vi/4FaQIL-9gys/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLJYVRGd0JwzY)
+[![halo-ce-first-person-legs](https://img.youtube.com/vi/gkQXpLdpb6E/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Z2tRWHBMZHBiNkU)
 
-[![halo-ce-first-person-legs](https://img.youtube.com/vi/gkQXpLdpb6E/maxresdefault.jpg)](https://www.youtube.com/watch?v=gkQXpLdpb6E)
+[![halo-ce-editor](https://img.youtube.com/vi/4FaQIL-9gys/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLJYVRGd0JwzY)
 
 ### Halo 2 Restored Lighting Update: Delta Halo's Improved Lighting and Shadows
-[![Halo 2 Restored Lighting Update: Delta Halo's Improved Lighting and Shadows](https://img.youtube.com/vi/FK5T_2NXjhI/maxresdefault.jpg)](https://youtu.be/FK5T_2NXjhI)
+[![Halo 2 Restored Lighting Update: Delta Halo's Improved Lighting and Shadows](https://img.youtube.com/vi/FK5T_2NXjhI/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Rks1VF8yTlhqaEk)
 
 ### Halo 3 Cache Decomp
 [https://github.com/igiteam/halo3_cache_release_recomp](https://github.com/igiteam/halo3_cache_release_recomp)
 
-[![2026.03.02 - 18.00.09.02](https://github.com/user-attachments/assets/8ef2ba53-4774-47c0-975d-34e3f43b1af5)](https://www.youtube.com/watch?v=FAMNq_gqCmI)
+[![2026.03.02 - 18.00.09.02](https://github.com/user-attachments/assets/8ef2ba53-4774-47c0-975d-34e3f43b1af5)](https://ytembed.macosxjs.com/?RkFNTnFfZ3FDbUk)
 
 [![2026.03.03 - 08.58.35.00](https://github.com/user-attachments/assets/0d4dc658-0b3f-46a2-8230-98dbddd4d635)](https://github.com/user-attachments/assets/0d4dc658-0b3f-46a2-8230-98dbddd4d635)
 
